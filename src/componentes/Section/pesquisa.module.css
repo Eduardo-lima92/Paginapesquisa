@@ -1,0 +1,69 @@
+.pesquisa{
+    width: 550px;
+    height: 40px;
+    border: 1px solid rgba(227, 227, 227, 1);
+    border-radius: 20px;
+    padding-left: 30px;
+}
+
+.func{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    z-index: 10;
+    margin-top: 50px;
+    margin-bottom: -40px;
+    
+}
+input:focus{
+    outline: 0px;
+}
+
+.lp{
+    margin-right: 480px;
+
+}
+
+.tec{
+
+}
+
+.btn1{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.privaty{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 118px;
+
+}
+
+.privaty img{
+    margin-right: 10px;
+}
+
+.privaty p{
+    color: rgba(26, 13, 189, 1);
+}
+
+.icinp{
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+    width: 550px;
+    margin: auto;
+    padding: 0px;
+}
+
+.icinp ul{
+    list-style: none;
+    display: flex;
+    padding: 0px 10px ;
+    position: absolute;
+    
+}
+
+

@@ -1,0 +1,33 @@
+.navbar ul{
+    display: flex;
+    list-style: none;
+    
+    justify-content: right;
+    align-items: center;
+    margin-top: 0;
+}
+
+.navbar li{
+    margin-left: 10px;
+    margin-right: 5px;
+    align-items: center;
+    font-weight: 400;
+    font-size: 14px;
+    color: black;
+    
+}
+
+.navbar img{
+    margin-top: 10px;
+    
+}
+.navbar a{
+    text-decoration: none;
+
+}
+
+.navbar a:hover{
+    text-decoration: underline;
+}
+
+

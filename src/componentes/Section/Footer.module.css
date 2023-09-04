@@ -1,0 +1,38 @@
+.ftbr{
+    background-color: rgba(242, 242, 242, 1);
+    padding: 15px 30px;
+    text-align: left;
+    border-bottom:1px solid #dadce0;
+    color: rgba(112, 112, 112, 1);
+    
+    
+}
+
+.ftsobre{
+
+    background-color: rgba(242, 242, 242, 1);
+    display: flex;
+    justify-content: space-between;  
+    font-size: 14px; 
+}
+
+
+.ftsobre ul{
+    list-style: none;
+    display: flex;
+    margin: 0px;    
+}
+
+.ftsobre li{
+    margin: 15px 25px 15px 0px;
+    color:rgba(112, 112, 112, 1);   
+}
+
+.ftsobre a{
+    text-decoration: none;
+}
+
+.ftsobre a:hover{
+    text-decoration: underline;
+}
+
